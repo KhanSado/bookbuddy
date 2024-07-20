@@ -10,12 +10,12 @@ export const environment = {
   appVersion: packageInfo.version,
   apiUrl: 'http://localhost:4200',
   firebase: {
-    apiKey: "AIzaSyD2gBKhQcRTDeUE6ajzSko9S3uhyRVqfVE",
-    authDomain: "ide-app-ippn.firebaseapp.com",
-    projectId: "ide-app-ippn",
-    storageBucket: "ide-app-ippn.appspot.com",
-    messagingSenderId: "288479226452",
-    appId: "1:288479226452:web:451a46bbe135e874631bc1",
-    measurementId: "G-8F8BGWGBJ2"
+    apiKey: "AIzaSyCpq_O39AGYe5uGFWRb-LXD5Tvx23zUocI",
+    authDomain: "reaad-prod-21a1e.firebaseapp.com",
+    projectId: "reaad-prod-21a1e",
+    storageBucket: "reaad-prod-21a1e.appspot.com",
+    messagingSenderId: "375483717504",
+    appId: "1:375483717504:web:5080bc45fff8b423349365",
+    measurementId: "G-DLGRLTSL0N"
   }
 };

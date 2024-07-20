@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { HomeService } from '../home/service/home.service';
+import { HomeService } from '../../home/service/home.service';
 import { AnnouncementService } from './service/announcement.service';
 import { CommonModule } from '@angular/common';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
